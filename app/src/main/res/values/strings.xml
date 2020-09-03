@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">xWord</string>
+    <string name="size">size</string>
+    <string name="color">color</string>
+    <string name="file_name">File Name</string>
+    <string name="sof_ech">Sofπech</string>
+    <string name="font">Font</string>
+    <string name="I">I</string>
+    <string name="bold">B</string>
+    <string name="save">SAVE</string>
+    <string name="_new">NEW</string>
+    <string name="load">LOAD</string>
+    <string name="enter_the_text">Enter The Text</string>
+    <string name="u">U</string>
+    <string name="c">C</string>
+    <string name="close">Close</string>
+</resources>
